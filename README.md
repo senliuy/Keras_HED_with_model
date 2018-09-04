@@ -7,7 +7,7 @@
 
 网络结构图
 
-![](./checkpoints/HEDSeg/model.pdf)
+![](./checkpoints/HEDSeg/model.png)
 
 ## 训练
 
