@@ -40,7 +40,7 @@ if __name__ == "__main__":
 
     # model
     model = hed()
-    plot_model(model, to_file=os.path.join(model_dir, 'model.pdf'), show_shapes=True)
+    plot_model(model, to_file=os.path.join(model_dir, 'model.png'), show_shapes=True)
 
     # training
     # call backs
